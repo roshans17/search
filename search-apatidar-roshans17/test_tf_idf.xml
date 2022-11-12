@@ -1,0 +1,35 @@
+<xml>
+  <page>
+    <title>
+      Page
+    </title>
+    <id>
+      1
+    </id>
+    <text>
+      the dog bit the man
+    </text>
+  </page>
+  <page>
+    <title>
+	  Page
+	</title>
+	<id>
+	  2
+	</id>
+	<text>
+      the dog ate cheese
+	</text>
+  </page>
+  <page>
+    <title>
+	  Page
+	</title>
+	<id>
+	  3
+	</id>
+	<text>
+      the cheese bit the cheese
+	</text>
+  </page>
+</xml>

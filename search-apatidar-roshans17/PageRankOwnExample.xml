@@ -1,0 +1,7 @@
+<xml>
+    <page><title>A: META PAGE</title><id>1</id><text>[[C]]</text></page>
+    <page><title>B</title><id>2</id><text>[[D]]</text></page>
+    <page><title>C</title><id>3</id><text>[[D]]</text></page>
+    <page><title>D</title><id>4</id><text>[[A: META PAGE]]</text></page>
+</xml>
+
